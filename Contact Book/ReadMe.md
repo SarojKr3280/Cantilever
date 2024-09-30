@@ -7,4 +7,4 @@ The Contact Book allows users to manage contact information using a File Storage
 * Delete existing contacts.<br>
 * Search for contacts by their contact number.<br>
 * Edit contact details.<br>
-* Display contacts in a user-friendly interface.<br>
+* Display contacts. <br>
